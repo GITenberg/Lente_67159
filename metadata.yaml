@@ -1,0 +1,55 @@
+_repo: Lente_67159
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Oort, Jan van
+    alias: Oort, Johan Michiel van
+    birthdate: 1867
+    deathdate: 1938
+    gutenberg_agent_id: '51393'
+    url: http://www.gutenberg.org/2009/agents/51393
+    wikipedia: https://nl.wikipedia.org/wiki/Jan_van_Oort_(1867-1938)
+  - agent_name: Wenckebach, L. W. R. (Ludwig Willem Reymert)
+    aliases:
+    - Wenckebach, Willem
+    - Wenckebach, Ludwig Willem Reymert
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '51630'
+    url: http://www.gutenberg.org/2009/agents/51630
+    wikipedia: https://nl.wikipedia.org/wiki/Ludwig_Willem_Reymert_Wenckebach
+  - agent_name: Voerman, Jan
+    birthdate: 1890
+    deathdate: 1976
+    gutenberg_agent_id: '51392'
+    url: http://www.gutenberg.org/2009/agents/51392
+    wikipedia: https://nl.wikipedia.org/wiki/Jan_Voerman_jr.
+creator:
+  author:
+    agent_name: Thijsse, Jac. P. (Jacobus Pieter)
+    alias: Thijsse, Jacobus Pieter
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '51391'
+    url: http://www.gutenberg.org/2009/agents/51391
+    wikipedia:
+    - https://nl.wikipedia.org/wiki/Jac._P._Thijsse
+    - https://en.wikipedia.org/wiki/Jac._P._Thijsse
+description: ''
+gutenberg_issued: '2022-01-14'
+identifiers:
+  gutenberg: '67159'
+language: nl
+pgterms:marc905: 20200721063140thijsse
+pgterms:marc906: '1906'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: Netherlands :Bakkerij "De Ruijter" der Firma Verkade & Comp.,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lente
+url: http://www.gutenberg.org/ebooks/67159
