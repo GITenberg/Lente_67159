@@ -24,6 +24,9 @@ contributor:
     gutenberg_agent_id: '51392'
     url: http://www.gutenberg.org/2009/agents/51392
     wikipedia: https://nl.wikipedia.org/wiki/Jan_Voerman_jr.
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thijsse, Jac. P. (Jacobus Pieter)
@@ -36,6 +39,8 @@ creator:
     - https://nl.wikipedia.org/wiki/Jac._P._Thijsse
     - https://en.wikipedia.org/wiki/Jac._P._Thijsse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67159#Lente
 gutenberg_issued: '2022-01-14'
 identifiers:
   gutenberg: '67159'
